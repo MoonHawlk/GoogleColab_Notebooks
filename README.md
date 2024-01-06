@@ -13,4 +13,4 @@ Here you can see:
     deactivate
 
 #### Atention
-All of these commands were funtional on Linux based enviroment
+All of these commands were funtional on Linux based environment
